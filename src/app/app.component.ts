@@ -29,29 +29,29 @@ export class AppComponent implements OnInit {
 
 	allQuestions: any = [{
 		"id": 1,
-		"question": "What is the capital of Belgium?",
-		"a": "Vienna",
-		"b": "Berlin",
-		"c": "Brussels",
-		"d": "Prague",
-		"answer": "c"
+		"question": "What is the most used programming language in 2019?",
+		"a": "Java",
+		"b": "C",
+		"c": "Python",
+		"d": "JavaScript",
+		"answer": "d"
 	},
 	{
 		"id": 2,
-		"question": "What is the capital of Australia?",
-		"a": "Vienna",
-		"b": "Canberra",
-		"c": "Brussels",
-		"d": "Prague",
-		"answer": "b"
+		"question": "What does HTML stand for?",
+		"a": "Hypertext Markup Language",
+		"b": "Cascading Style Sheet",
+		"c": "Json Object Notation",
+		"d": "Helicopters Terminals Motorboats Lamborginis",
+		"answer": "a"
 	},
 	{
 		"id": 3,
-		"question": "What is the capital of Bulgaria?",
-		"a": "Vienna",
-		"b": "Sofia",
-		"c": "Brussels",
-		"d": "Prague",
+		"question": "What year was JavaScript launched?",
+		"a": "1996",
+		"b": "1995",
+		"c": "1994",
+		"d": "none of the above",
 		"answer": "b"
 	}
 	];
