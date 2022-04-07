@@ -1,0 +1,8 @@
+https://github.com/dheerajsk/sl-mean-phase2-dec
+https://github.com/mern-learning/typescript-learning/blob/main/netflix/api-service.ts
+https://github.com/azadansari/sl-phase2/tree/main/Netflix%20App%20Classes
+https://github.com/MunishManocha/MeanStack-phase2/blob/main/NetFlix/Profile.ts
+https://github.com/rakenkou-github/SL-MEAN-PHASE2-DEC/blob/main/Netflex/payment.ts
+https://github.com/bewithlalit/sl-meanstack-phase2-lab-dec/blob/main/netflix-app/user.ts
+https://github.com/mern-learning/typescript-learning/tree/main/netflix
+https://github.com/dheerajsk/sl-mean-phase2-dec/blob/main/typescript/oops/IDeveloper.ts

@@ -1,0 +1,6 @@
+Step 1 : Model - to Create Model Class
+Step 2 : Repository - Command (Insert/update/Delete)
+Step 3 : Controller - Command (Send Command to controller for action)
+Step 4 : Router	- to setup API (post/put/delete/get)
+Step 5 : Config - Database Connectivity Configuration
+app.js : to start express module on specific port
